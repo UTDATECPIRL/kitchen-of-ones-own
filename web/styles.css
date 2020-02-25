@@ -1,0 +1,132 @@
+@charset "UTF-8";
+* { 
+	margin: 0;
+	padding: 0;
+}
+	@font-face {
+  font-family: "LiterataBook";
+  src: url(fonts/LiterataBook.otf);
+  }
+@font-face {
+  font-family: "MomsTypewriter";
+  src: url(fonts/Momstypewriter.ttf);
+  }
+@font-face {
+	font-family: "Assistant-semibold";
+	src: url(fonts/Assistant-SemiBold.ttf); 
+}
+@font-face {
+	font-family: "Roboto-Medium";
+	src: url(fonts/Roboto-Medium.ttf); 
+}
+body {
+	margin: 0; /*seems i shouldn't need this since i used the universal selector but trying to eliminate any space at all on the page and am getting a weird one beneath each div */
+	padding: 0;
+	width: 3120px;
+	height: 2732px;
+	 background: #000;
+	 overflow: hidden;
+}
+
+#wrap {
+	width: 3072px;
+	height: 2732px;
+		background: rgba(97,200,209,1.00); /*cyan*/
+}
+.clear {
+	clear: both;
+}
+.journalism {
+	font-family: "MomsTypewriter", courier, Times New Roman, Baskerville, "serif";
+	color: rgba(167,24,26,1.00); /*red */
+	font-size: 150px;
+}
+.literature {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: rgba(215,215,8,1.00); /* gold */
+	font-size: 170px;	
+	font-style: italic;
+	font-weight: 600;
+	font-variant-ligatures: normal;
+}
+.social-media {
+	font-family: "Roboto-Medium", "Assistant-semibold", "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: rgba(70,180,176,1.00); /* pale blue */
+	font-size: 170px;
+}
+
+/*//////////// divs for videos //////////////*/
+
+.div-1 {
+	width: 3072px;
+	height: 2732px;
+	background: black;
+	float: left;
+	position: absolute;
+	top: 0;
+	z-index: -1;
+	overflow: hidden;
+}
+.div-2 {
+	width: 1536px;
+	height: 1366px;
+	background: black;
+	float: left;
+}
+.div-4 {
+	width: 768px;
+	height: 683px;
+	background: black;
+	float: left;
+}
+.div-8 {
+	width: 384px;
+	height: 342px;
+	background: black;
+	float: left;
+}
+.div-16 {
+	width: 192px;
+	height: 171px;
+	background: black;
+	float: left;
+}
+
+/* ///// divs for text //////////////*/
+
+.div-top-text {
+	width: 3072px; 
+	background: rgba(77,112,125,.40);
+	height: 2732px;
+	/* max-height: 2732px; */
+	z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+	animation: fadein 2s ;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.div-top-text p {
+	width: 2952px; /* take away 120px to account for padding */
+	max-height: 2732px; 
+	z-index: 3;
+	/* font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";*/
+	
+	/*color: rgba(221,199,199,1.00);  very pale pink */
+	/* color: rgba(249,93,96,1.00); /* muted red */
+	/* color: rgba(215,215,8,1.00); /* gold */
+	/*margin: 15% 10%;*/
+	/* position: relative;
+	top: 0;
+	left: 0; */
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
