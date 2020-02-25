@@ -72,21 +72,25 @@ let KitchenSink = [
 					{ "class": "div-8", "size": "8up" }, { "class": "div-8", "size": "8up" }, 
 					{ "class": "div-8", "size": "8up" }, { "class": "div-8", "size": "8up" }, 
 				];
-/*
+
 let videoDivsBySize = 
-					{ "_1up" : '<video width="3072" height="2732"  oncanplay="enqueueVideo()" loop  muted >\n',
-					 "_2up" : '<video width="1536" height="1366"  oncanplay="enqueueVideo()" loop  muted >\n',
-					 "_4up" : '<video width="768" height="684"  oncanplay="enqueueVideo()" loop  muted >\n',
-					 "_8up" : '<video width="384" height="342"  oncanplay="enqueueVideo()" loop  muted >\n'};
-*/
-let videoDivsBySize = 
+					{ "_1up" : '<video width="3072" height="2732"   loop  muted >\n',
+					 "_2up" : '<video width="1536" height="1366"   loop  muted >\n',
+					 "_4up" : '<video width="768" height="684"   loop  muted >\n',
+					 "_8up" : '<video width="384" height="342"   loop  muted >\n'};
+
+/*let videoDivsBySize = 
 					{ "_1up" : '<video width="3072" height="2732"  autoplay loop  muted >\n',
 					 "_2up" : '<video width="1536" height="1366"  autoplay loop  muted >\n',
 					 "_4up" : '<video width="768" height="684"  autoplay loop  muted >\n',
 					 "_8up" : '<video width="384" height="342"  autoplay loop  muted >\n'};
-					
+*/					
 
 let layouts = [ OneOnFourUp, TwoOnFourUp, FourUp, EightUp, EightDown, FourOnFour, KitchenSink ];
+let queuedVideos = [];
+let videosToQueue = 0;
+let readyToDisplay = false;
+let datum = "";
 
 function chooseLayout() {
 	return layouts[Math.floor(Math.random()*layouts.length)];
@@ -114,7 +118,7 @@ function populateVideoDivs(videoList, layout) {
 	let returndivs = "";
 	for (const newdiv in layout) {
 		let nextVideo = videofiles[Math.floor(Math.random()*videofiles.length)];
-		returndivs += '<div class="' + layout[newdiv]['class'] + '">\n'
+		returndivs += '<div class="delayed-video ' + layout[newdiv]['class'] + '">\n'
 		returndivs += videoDivsBySize['_' + layout[newdiv]['size']];
   		returndivs += '<source src="clips/timed_30/' + nextVideo['filename'] + '_' 
   			+ layout[newdiv]['size'] + '.MP4" type="video/mp4">\n</video>\n</div>\n';
@@ -125,27 +129,67 @@ function populateVideoDivs(videoList, layout) {
 
 }
 
-export function enqueueVideo() {
-	alert("ready to play");
+function enqueueVideo() {
+	//alert("ready to play " + queuedVideos[0]);
+	queuedVideos.push(true);
+	if (queuedVideos.length == videosToQueue) {
+		enableNewPage();
+	}
+}
+
+function fadeText() {
+	let textdiv = document.getElementById('quote-text');
+	textdiv.classList.remove('div-top-fade-in');
+	textdiv.classList.add('div-top-fade-out');
+	setTimeout(runExhibit, 3000);
+
 }
 
 function enableNewPage() {
-	return "not yet implemented"
+	//return "almost implemented"
+	let textdiv = document.getElementById('quote-text');
+	textdiv.classList.remove('div-top-fade-in');
+	textdiv.classList.add('div-top-fade-out');
+	let activeVideoDivs = document.getElementsByClassName("active-video");
+	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
+		var activeVideo = activeVideoDivs[activeVideoDiv];
+		activeVideo.parentNode.removeChild(activeVideo);
+	}
+	let delayedVideoDivs = document.getElementsByClassName("delayed-video");
+	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
+		delayedVideoDivs[delayedVideoDiv].classList.add("active-video");
+	}
+	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
+		delayedVideoDivs[delayedVideoDiv].classList.remove("delayed-video");
+	}
+	activeVideoDivs = document.getElementsByClassName("active-video");
+	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
+		let newVideoDiv = activeVideoDivs[activeVideoDiv].getElementsByTagName('video')[0];
+		newVideoDiv.play();
+	}
+	textdiv.classList.remove('literature','journalism','social-media');
+	textdiv.classList.add(datum['Type']);
+	textdiv.classList.remove('div-top-fade-out');
+	textdiv.classList.add('div-top-fade-in');
+	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+		
 }
 
 function runExhibit(database) {
 	let layout = chooseLayout();
-	let datum = chooseLine();
-	let textdiv = document.getElementById('quote-text');
+	datum = chooseLine();
 	let videos = chooseVideos(layout.length, datum['Verb']);
-	console.log("text = " + textdiv);
-	textdiv.classList.remove('literature','journalism','social-media');
-	textdiv.classList.add(datum['Type']);
-	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	queuedVideos = [];
+	videosToQueue = videos.length;
 	let videodiv = document.getElementById('video-block');
 	videodiv.innerHTML = populateVideoDivs(videos, layout);
-	console.log("going live = " + enableNewPage()); 
-	setTimeout(runExhibit, 30000);
+	let delayedVideoDivs = document.getElementsByClassName("delayed-video");
+	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
+		let newVideoDiv = delayedVideoDivs[delayedVideoDiv].getElementsByTagName('video')[0];
+		newVideoDiv.oncanplaythrough = enqueueVideo ; 
+		let foo = 0;
+	}
+	setTimeout(fadeText, 30000);
 }
 
 

@@ -103,12 +103,31 @@ body {
 	position: absolute;
 	top: 0;
 	left: 0;
-	animation: fadein 2s ;
+	opacity: 0;
 }
+.div-top-fade-in {
+	animation-name: fadein;
+	animation-duration: 2s ;
+	animation-delay: 2s;
+	animation-fill-mode: forwards;
+}
+
 
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
+}
+.div-top-fade-out {
+	animation-name: fadeout;
+	animation-duration: 1s ;
+	animation-delay: 0s;
+	animation-fill-mode: forwards;
+}
+
+
+@keyframes fadeout {
+    from { opacity: 1; }
+    to   { opacity: 0; }
 }
 
 .div-top-text p {
@@ -130,3 +149,6 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.delayed-video {
+	display: block;
+}
