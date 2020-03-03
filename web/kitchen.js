@@ -1,5 +1,8 @@
 import { readCSVfile }  from './csvreader.js'
 
+let incomingURL = window.location.href;
+console.log(incomingURL);
+
 let database = {};
 let videofiles = {};
 
@@ -92,12 +95,31 @@ let videosToQueue = 0;
 let readyToDisplay = false;
 let datum = "";
 
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+let nextLine = parseInt(getParameterByName('start'));
+
 function chooseLayout() {
 	return layouts[Math.floor(Math.random()*layouts.length)];
 }
 
 function chooseLine() {
-	console.log("database " + database.length);
+	if (nextLine) {
+		var retVal = database[nextLine];
+		nextLine += 1;
+		if (nextLine == database.length) {
+			nextLine = 0;
+		}
+		return retVal;
+	}
 	return database[Math.floor(Math.random()*database.length)];
 }
 
