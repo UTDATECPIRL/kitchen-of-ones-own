@@ -75,6 +75,28 @@ let KitchenSink = [
 					{ "class": "div-8", "size": "8up" }, { "class": "div-8", "size": "8up" }, 
 					{ "class": "div-8", "size": "8up" }, { "class": "div-8", "size": "8up" }, 
 				];
+let XbeX = [  
+					{ "class": "div-8", "size": "8up" }, { "class": "div-8-top08", "size": "8up" }, 
+					{ "class": "div-8-mid1-02", "size": "8up" }, { "class": "div-8-mid1-07", "size": "8up" },  
+					{ "class": "div-8-mid2-03", "size": "8up" }, { "class": "div-8-mid2-06", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, { "class": "div-8-mid6-02", "size": "8up" },
+					{ "class": "div-8-mid6-06", "size": "8up" }, { "class": "div-8-bottom01", "size": "8up" },  
+					{ "class": "div-8-bottom08", "size": "8up" }, { "class": "div-1", "size": "1up" }
+				];
+
+let VerticalLine = [ 
+					{ "class": "center-8-top1", "size": "8up" }, { "class": "center-8-top2", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, 
+					{ "class": "center-8-top6", "size": "8up" }, { "class": "center-8-top8", "size": "8up" }, 
+					{ "class": "div-1", "size": "1up" }
+				];
+
+let HorizontalLine = [ 
+					{ "class": "center-8-left1", "size": "8up" }, { "class": "center-8-left2", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, 
+					{ "class": "center-8-left6", "size": "8up" }, { "class": "center-8-left7", "size": "8up" }, 
+					{ "class": "div-1", "size": "1up" }
+				];
 
 let videoDivsBySize = 
 					{ "_1up" : '<video width="3072" height="2732"   loop  muted >\n',
@@ -89,11 +111,65 @@ let videoDivsBySize =
 					 "_8up" : '<video width="384" height="342"  autoplay loop  muted >\n'};
 */					
 
-let layouts = [ OneOnFourUp, TwoOnFourUp, FourUp, EightUp, EightDown, FourOnFour, KitchenSink ];
+let layouts = [ OneOnFourUp, TwoOnFourUp, FourUp, EightUp, 
+				EightDown, FourOnFour, KitchenSink, 
+				XbeX, VerticalLine,  HorizontalLine ];
 let queuedVideos = [];
 let videosToQueue = 0;
 let readyToDisplay = false;
 let datum = "";
+
+function generateTopBottomLayouts() {
+	var topBottomLayouts = [];
+	for (var top=0; top < 8; top++) { 
+		var topLayout = [];
+		for (var topPosition=0; topPosition<=top; topPosition++ ) {
+			topLayout.push ({ "class": "div-8", "size": "8up" });
+		}
+		for (var bottomStartPosition=0; bottomStartPosition < 8; bottomStartPosition++) {
+			for (var bottomWidth=1; bottomWidth<(9-bottomStartPosition); bottomWidth++){
+			var bottomLayout = [];
+				for (var bottomPosition=bottomStartPosition; bottomPosition < 8; bottomPosition++) {
+					bottomLayout.push({ "class": ("div-8-bottom0" + (bottomPosition+1)), "size": "8up"});
+				}
+			topBottomLayouts.push(topLayout.concat(bottomLayout, { "class": "div-1", "size": "1up" }));
+			}
+		}
+
+	}
+	return topBottomLayouts;
+}
+layouts = layouts.concat(generateTopBottomLayouts());
+
+function generateSparseTopLayouts(count) {
+	var sparseTopLayouts = [];
+	for (var i=0; i<count; i++) {
+		var topVideosCount = Math.floor(Math.random() * 6) + 1; //pick between 1 and 6 videos
+		var topLayout = [];
+		var topLocations = ["div-8-top01", "div-8-mid1-01", "div-8-mid2-01",
+				"div-8-top02", "div-8-mid1-02", "div-8-mid2-02",
+				"div-8-top03", "div-8-mid1-03", "div-8-mid2-03",
+				"div-8-top04", "div-8-mid1-04", "div-8-mid2-04",
+				"div-8-top05", "div-8-mid1-05", "div-8-mid2-05",
+				"div-8-top06", "div-8-mid1-06", "div-8-mid2-06",
+				"div-8-top07", "div-8-mid1-07", "div-8-mid2-07",
+				"div-8-top08", "div-8-mid1-08", "div-8-mid2-08"
+				];
+		for (var top=0; top < topVideosCount; top++) { 
+			var itemToRemove = Math.floor(Math.random() * topLocations.length );
+			var itemClass = topLocations.splice(itemToRemove,1)[0];
+			topLayout.push ({ "class": itemClass, "size": "8up" });
+		}
+		var bottomLayout = [];
+		for (var bottomPosition=0; bottomPosition < 8; bottomPosition++) {
+			bottomLayout.push({ "class": ("div-8-bottom0" + (bottomPosition+1)), "size": "8up"});
+		}
+		sparseTopLayouts.push(topLayout.concat(bottomLayout, { "class": "div-1", "size": "1up" }));
+		
+	}
+	return sparseTopLayouts;
+}
+layouts = layouts.concat(generateSparseTopLayouts(100));
 
 function getParameterByName(name, url) {
     if (!url) url = window.location.href;
@@ -126,16 +202,24 @@ function chooseLine() {
 function chooseVideos(count, verb) {
 	let videoList = [];
 	for (let i=0; i < count; i++) {
-		let candidate_video = videofiles[Math.floor(Math.random()*videofiles.length)];
-		videoList.push(candidate_video['filename']);
+		//if ( verb == undefined) {
+			let candidate_video = videofiles[Math.floor(Math.random()*videofiles.length)];
+			videoList.push(candidate_video['filename']);
 
-	  }
-	  return videoList;
-	}
+		}
+		//else {
+
+		//}
+		return videoList;
+	//}
+
+}
+
 function populateTextDiv(text) { 
 	let thisdiv = '<p>' + text + '</p>';
 	return thisdiv ; 
 }
+
 function populateVideoDivs(videoList, layout) {
 	let returndivs = "";
 	for (const newdiv in layout) {
@@ -144,11 +228,8 @@ function populateVideoDivs(videoList, layout) {
 		returndivs += videoDivsBySize['_' + layout[newdiv]['size']];
   		returndivs += '<source src="clips/timed_30/' + nextVideo['filename'] + '_' 
   			+ layout[newdiv]['size'] + '.MP4" type="video/mp4">\n</video>\n</div>\n';
-	
-
 	}
 	return returndivs;
-
 }
 
 function enqueueVideo() {
@@ -164,12 +245,12 @@ function fadeText() {
 	textdiv.classList.remove('div-top-fade-in');
 	textdiv.classList.add('div-top-fade-out');
 	setTimeout(runExhibit, 3000);
-
 }
 
 function enableNewPage() {
 	//return "almost implemented"
 	let textdiv = document.getElementById('quote-text');
+	let tagdiv = document.getElementById('verb-text');
 	textdiv.classList.remove('div-top-fade-in');
 	textdiv.classList.add('div-top-fade-out');
 	let activeVideoDivs = document.getElementsByClassName("active-video");
@@ -189,11 +270,14 @@ function enableNewPage() {
 		let newVideoDiv = activeVideoDivs[activeVideoDiv].getElementsByTagName('video')[0];
 		newVideoDiv.play();
 	}
-	textdiv.classList.remove('literature','journalism','social-media');
+	textdiv.classList.remove('literature','journalism','socialmedia');
 	textdiv.classList.add(datum['Type']);
-	textdiv.classList.remove('div-top-fade-out');
 	textdiv.classList.add('div-top-fade-in');
+	textdiv.classList.remove('div-top-fade-out');
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	tagdiv.classList.remove('literature-tag','journalism-tag','socialmedia-tag');
+	tagdiv.classList.add(datum['Type'] + '-tag');
+	tagdiv.innerHTML = '#' + datum['Verb'] ;
 		
 }
 

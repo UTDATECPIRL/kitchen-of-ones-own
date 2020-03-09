@@ -30,15 +30,19 @@ function csvJSON(csv){
 	  if (headers.length == currentline.length) 
 	  {
 	  	for(var j=0;j<headers.length;j++){
-	  		  try {
-	  		  	obj[headers[j]] = currentline[j].trim();
-	  		  } catch { 
-	  		  	console.log("bad tsv line" + lines[i]); 
-	  		  }
-	  	  }
+  		  try {
+  		  	obj[headers[j]] = currentline[j].trim();
+  		  } catch { 
+  		  	console.log("bad tsv line" + lines[i]); 
+  		  }
+	    }
 	  
-	  	  result.push(obj);
-	  	}
+	  	result.push(obj);
+	  } else {
+		if (currentline.length > 1) {
+			console.log("bad line " + lines[i] );
+		}
+      }
 
   }
   
