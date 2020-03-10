@@ -200,11 +200,11 @@ Another chef told me she&rsquo;d been sent inappropriate and suggestive text mes
 
 &ldquo;But hurting people was never actually character-building, and, certainly, sexualizing subordinates was never making the work better.&rdquo;	check	journalism	Jen Agg	&ldquo;It&rsquo;s not Just &lsquo;Kitchen Talk,&rsquo; it&rsquo;s Abuse&rdquo;		6 September 2018	Eater New York																				
 
-It&rsquo;s not only physical and sexual abuse, but sometimes also racial. One female chef from South Africa was called a &ldquo;black b----&lrquo;when she first came to work in a restaurant kitchen in London. Her colleagues who heard this just laughed.	peel	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
+It&rsquo;s not only physical and sexual abuse, but sometimes also racial. One female chef from South Africa was called a &ldquo;black b----&rdquo;when she first came to work in a restaurant kitchen in London. Her colleagues who heard this just laughed.	peel	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
 Meanwhile, a friend of mine will regularly walk into the kitchen she works in, where the chefs will pick her up, put her in the walk-in fridge and touch her up.	squeeze	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
-&ldquo;There&rsquo;s something like a wolf pack mentality at times, with the men ganging up to undermine the status of the (very few) women they work with. A lot of women keep quiet and accept this, out of fear they&rsquo;ll be sacked, or from shame.&lrquo;	turn-off	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
+There&rsquo;s something like a wolf pack mentality at times, with the men ganging up to undermine the status of the (very few) women they work with. A lot of women keep quiet and accept this, out of fear they&rsquo;ll be sacked, or from shame.	turn-off	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
 I know of one very young and innocent woman who complained to the female owner of a top restaurant about bullying from the male chefs. It was the victim who was sacked from her job. 	throw	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
@@ -214,15 +214,15 @@ Another female chef suffered severe burns to her hands when a male chef threw a 
 
 So how, you might wonder, have these men got away with it so long? Some people point to the high pressure working conditions, the long hours and the stressful environment, that makes many top kitchens hellholes of abuse.	mix	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
-Anyone questioning this necessary advancement is doing so from a place of fear&mdash;fear of power loss, fear of the unknown, and the extremely lazy fear of having to learn not to call people objectively derogatory names, or you know, harass them.	adjust	journalism	Jen Agg	&ldquo;It&rsquo;s not Just &lsquo;Kitchen Talk,&rsquo; it&rsquo;s Abuse&rdquo;		6 September 2018	Eater New York																				
+Anyone questioning this necessary advancement is doing so from a place of fear - fear of power loss, fear of the unknown, and the extremely lazy fear of having to learn not to call people objectively derogatory names, or you know, harass them.	adjust	journalism	Jen Agg	&ldquo;It&rsquo;s not Just &lsquo;Kitchen Talk,&rsquo; it&rsquo;s Abuse&rdquo;		6 September 2018	Eater New York																				
 
 The pressure in a kitchen is intense, that&rsquo;s for sure. But if abusing someone else is your reaction, you ought to be in therapy and not working there at all. There still exists a culture of heavy drinking and drug-taking, but again it can&rsquo;t explain away the problem &mdash; although it&rsquo;s arguably yet another symptom.	check	journalism	Asma Khan 	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
-What lies behind this phenomenon is a culture where the head chef is king and operates within a network that&rdquo;s a boys&rdquo; club in essence.	insert	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
+What lies behind this phenomenon is a culture where the head chef is king and operates within a network that&rsquo;s a boys&rsquo; club in essence.	insert	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
 [A]s though the right to exist without enduring blatant sexism is &ldquo;politics.&rdquo;	pour	journalism	Jen Agg	&ldquo;I am a Restaurant Owner. Why Aren&rsquo;t my Peers as Disgusted by Sexism as I Am?&rdquo;		31 January 2017	Eater New York																				
 
-&ldquo;The celebrity chefs aren&rsquo;t immune &mdash; quite the contrary &mdash; because the greater their profile, the less likely are victims to complain. If the culprit was a nobody, you would slap them and leave. But if you slap a famous chef you might never work again.&rdquo;	shake	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
+The celebrity chefs aren&rsquo;t immune &mdash; quite the contrary &mdash; because the greater their profile, the less likely are victims to complain. If the culprit was a nobody, you would slap them and leave. But if you slap a famous chef you might never work again.	shake	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
 Some female chefs have confessed to me they are even too ashamed to tell their parents or partners that they&rsquo;re having a hard time in their workplace. They fear being ostracised, losing their jobs, or failing to progress in their careers.	turn-off	journalism	Asma Khan	&ldquo;They put her in the fridge and touch her up&rdquo;: Is the restaurant world having its #MeToo moment?"		29 January 2019	The Telegraph																				
 
@@ -242,7 +242,7 @@ Every town has one of these bro-centric restaurants, the places that make everyd
 
 In one incident that allegedly took place at a Downtown restaurant, a woman said the food industry veteran slapped her, dragged her by her hair and pushed her.	shake	journalism	Kelly Bauer	"Chicago Restaurant Manager Was Notorious For Abusing Women, Staff &mdash; And Hospitality Group Did Nothing For Years, Victims Say"		11 October 2019	Block Club Chicago																				
 
-Although the restaurant industry employs only one-tenth of all workers. . .they account for nearly 40 percent of all complains filed with the Equal Employment Opportunity Comission.	fill	journalism	Lori Galarreta	&ldquo;How Suzanne Goin Runs her Kitchen in the #MeToo Era&rdquo;		9 July 2018	LAist																				
+Although the restaurant industry employs only one-tenth of all workers...they account for nearly 40 percent of all complains filed with the Equal Employment Opportunity Comission.	fill	journalism	Lori Galarreta	&ldquo;How Suzanne Goin Runs her Kitchen in the #MeToo Era&rdquo;		9 July 2018	LAist																				
 
 Creating a healthy environment is a logical extension of our hospitality&mdash;we can&rsquo;t provide the true, warm, open experience we want for our guests unless every one of our staff members and guests is safe and respected.	open	journalism	Caitlin Corcoran	What Does it Mean to Be Safe in a Restaurant?		7 February 2019	James Beard Foundation																				
 
@@ -260,35 +260,35 @@ According to an investigation by Vox, more than 60 workers at IHOPs and Applebee
 
 Sexual harassment continues to afflict the service industry more than any other private sector. According to the Center for American Progress (CAP), there are three times as many reported incidences of sexual harassment among hotel and restaurant workers than there are among manufacturing and healthcare industry employees.	pour	journalism	Kelly McLaughlin	"As #MeToo takes down alleged sexual harassers at the top levels of power, chain restaurants face fresh scrutiny"		7 March 2019	Insider																				
 
-I was the &ldquo;perfect victim.&rdquo; I wasn&rquo;t drunk or alone, I wasn&rsquo;t wearing a short skirt or a low-cut top, and I was surrounded by people I knew and trusted in a public place.	scoop	journalism	Ashley Goldsmith	&ldquo;My Coworkers Turned on me WhenI Reported a Chef to HR&rdquo;		14 November 2018	Eater New York																				
+I was the &ldquo;perfect victim.&rdquo; I wasn&rsquo;t drunk or alone, I wasn&rsquo;t wearing a short skirt or a low-cut top, and I was surrounded by people I knew and trusted in a public place.	scoop	journalism	Ashley Goldsmith	&ldquo;My Coworkers Turned on me WhenI Reported a Chef to HR&rdquo;		14 November 2018	Eater New York																				
 
 A 2014 study from the Restaurant Opportunities Centers United (ROC United) Forward Together revealed that 79% of women and 71% of men who were surveyed said they had experienced some form of sexual harassment from co-workers while working in the service industry.	pour	journalism	Kelly McLaughlin			7 March 2019	Insider																				
 
-Not convinced non-competes are bad? Imagine that you&rsquo;re being sexually harassed at your restaurant job &mdash; but you can&rsquo;t leave your job because the fine print in your employment contract says you can&rsquo;t work other restaurants in your area. #MeToo	remove	social-media	Sejal Singh			24 April 2019																					
+Not convinced non-competes are bad? Imagine that you&rsquo;re being sexually harassed at your restaurant job &mdash; but you can&rsquo;t leave your job because the fine print in your employment contract says you can&rsquo;t work other restaurants in your area. #MeToo	remove	socialmedia	Sejal Singh			24 April 2019																					
 
 In the era of #MeToo, gender dynamics in some restaurant kitchens are finally changing	wash	socialmedia	Eater			4 November 2019																					
 
 &ldquo;He had so much control, and he was so dominant and powerful, that I didn&rsquo;t feel like if I stepped away that I would survive.&rdquo;	close	journalism	Cathy Erway	Life After the Line-Cook Boys&rsquo; Club		31 October 2019	Eater																				
 
-According to the United States Department of Labor, 41.8 percent of cooks in the U.S. were women in 2018. Also in 2018, in another study, it was shown that 71.1 percent of chefs and “head cooks” in the U.S. were reportedly male.	check	journalism	Cathy Erway	Life After the Line-Cook Boys&rsquo; Club		31 Octover 2019	Eater																				
+According to the United States Department of Labor, 41.8 percent of cooks in the U.S. were women in 2018. Also in 2018, in another study, it was shown that 71.1 percent of chefs and &ldquo;head cooks&rdquo; in the U.S. were reportedly male.	check	journalism	Cathy Erway	Life After the Line-Cook Boys&rsquo; Club		31 Octover 2019	Eater																				
 
 The thinking behind the change was itself misguided - a human, not alcohol, attacked me. But the ramifications were worse. It was my community, rather than the man who hurt me, that made my life at work unbearable.	adjust	journalism	Ashley Goldsmith	&ldquo;My Coworkers Turned on me When I Reported a Chef to HR&rdquo;		14 November 2018	Eater New York																				
 
-[Y]oung women (and quite a few men) who believe that a woman should not have to leave a good job because a cook continues to hit on her, that she should be able to lie down drunk at the feet of anyone she likes and not be assaulted.	put	journalism	Kim Severson	&ldquo;Food Writing in the #MeToo Era&rdquo;		16 July 2018	The New York Times																				
+[Y]oung women...should not have to leave a good job because a cook continues to hit on her....	put	journalism	Kim Severson	&ldquo;Food Writing in the #MeToo Era&rdquo;		16 July 2018	The New York Times																				
 
-This was true for the women who muscled their way into those kitchens, too. We fought to get a leg up by being &lsquo;one of the guys.&rsquo; We partied with them, let some of them slap us on the ass. We learned that the real way of handling it and getting ahead was maintaining (if not even creating) the bro code. Sometimes WE started slapping people on the ass. And it was working. We were getting ahead!	insert	journalism	Naomi Pomeroy	"As a Chef and a Woman, I Regret Joining the Boys&rsquo; Club"		21 June 2018	Eater																				
+We fought to get a leg up by being &lsquo;one of the guys.&rsquo; We partied with them, let some of them slap us on the ass. We learned that the real way of handling it and getting ahead was maintaining (if not even creating) the bro code. Sometimes WE started slapping people on the ass. And it was working. We were getting ahead!	insert	journalism	Naomi Pomeroy	"As a Chef and a Woman, I Regret Joining the Boys&rsquo; Club"		21 June 2018	Eater																				
 
 But #MeToo ripped that apart. It showed us what we put up with for so long as normal is deeply, unequivocally wrong. We sort of knew it, but we were too busy emulating and living it.	flip	journalism	Naomi Pomeroy	"As a Chef and a Woman, I Regret Joining the Boys&rsquo; Club"		21 June 2018	Eater																				
 
 Elizabeth Haigh (@the_modernchef) says the UK restaurant industry needs its own #MeToo moment (@women_food_wifi)	wash	socialmedia	Jemima Gibbons			1 May 2019																					
 
-&ldquo;And one of the things that I&rsquo;m ashamed of is that I accepted it &mdash; we all did, all the women of my generation. It was transactional, right? You just took it for granted that men were going to come on to you, talk dirty to you. We accepted it, and we should never have, but it was just the way of the world. It never occurred to us. I&rsquo;m so happy that women aren&rsquo;t accepting it anymore.&rdquo;	shake	journalism	John Birdsall	Q&A: Ruth Reichl on breaking through the machismo of restaurant and publishing worlds		3 April 2019	 Los Angeles Times																				
+And one of the things that I&rsquo;m ashamed of is that I accepted it &mdash; we all did, all the women of my generation. It was transactional, right? You just took it for granted that men were going to come on to you.... We accepted it, and we should never have, but it was just the way of the world...I&rsquo;m so happy that women aren&rsquo;t accepting it anymore.	shake	journalism	John Birdsall	Q&A: Ruth Reichl on breaking through the machismo of restaurant and publishing worlds		3 April 2019	 Los Angeles Times																				
 
 &ldquo;We endured it because we had to; we didn&rsquo;t have an option. If you went against it, you didn&rsquo;t have a job.&rdquo;	turn	journalism	Cathy Erway	&ldquo;Life After the Line-Cook Boys&rsquo; Club&rdquo;		31 October 2019	Eater New York																				
 
-&ldquo;[I]f women are experts at recognizing predatory behavior because they are often targets, men are experts in recognizing when a woman is not interested because, if they&rsquo;re into women, odds are they&rsquo;ve been shot down a few times.&rdquo;	turn-off	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
+[I]f women are experts at recognizing predatory behavior because they are often targets, men are experts in recognizing when a woman is not interested because, if they&rsquo;re into women, odds are they&rsquo;ve been shot down a few times.	turn-off	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
 
-&ldquo;You know what I&rsquo;d love when I&rsquo;ve got a guy hounding me. . .another man to engage him in conversation. . .this takes the attention off of me, lets me move away if I want to,. . .lets me, most importantly, know that you are not on his team, you are not his friend, and that I don&rsquo;t have to be afraid of you, too.&rdquo;	take	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
+&ldquo;You know what I&rsquo;d love when I&rsquo;ve got a guy hounding me...another man to engage him in conversation...this takes the attention off of me, lets me move away if I want to...lets me, most importantly, know that you are not on his team, you are not his friend, and that I don&rsquo;t have to be afraid of you, too.&rdquo;	take	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
 
 Sometimes all it takes is a look: lock eyes with me for a minute and look towards the offender and then back at me. That nonverbal support speaks volumes. It lets me know you see what&rsquo;s happening and that you&rsquo;re on my team.	insert	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
 
@@ -296,41 +296,41 @@ It lets me know you see what&rsquo;s happening and that you&rsquo;re on my team.
 
 Bars are, most accurately, about community, and communities only thrive when all its members adhere to the same codes of conduct, when everyone is held to the same standards.	squeeze	journalism	Haley Hamilton	&ldquo;When you see a Stranger Being Creepy in a bar, the Worst Thing you can do is Nothing&rdquo;		1 April 2019	Eater New York																				
 
-If he wanted her to cook for pigs he had only to say so. She knew how to cook for pigs and she knew how to cook for people	adjust	literature	Kate Chopin	A Night in Acadie	14	1897	Way & Williams																				
+If he wanted her to cook for pigs he had only to say so. She knew how to cook for pigs and she knew how to cook for people.	adjust	literature	Kate Chopin	A Night in Acadie	14	1897	Way & Williams																				
 
 No one who cooks, cooks alone. Even at her most solitary, a cook in the kitchen is surrounded by generations of cooks past, the advice and menus of cooks present, the wisdom of cookbook writers.	turn	literature	Laurie Colwin	Home Cooking: A Writer in the Kitchen	"""Preface"""																						
 
-La cucina bears the scents of its past, and every event in its history is recorded with an olfactory memorandum.	pour	literature	Lily Prior	La Cucina		2000	Ecco		Ecco	2001																	
+<strong>La cucina</strong> bears the scents of its past, and every event in its history is recorded with an olfactory memorandum.	pour	literature	Lily Prior	La Cucina		2000	Ecco		Ecco	2001																	
 
 You wake up one morning married to a stranger who loves rye bread so dense you better duck if a loaf comes sailing towards you. 	throw	socialmedia	Michaele Weissman	"The Rye Bread Marriage, featured on The Splendid Table podcast"		Aired 27 February 2020	NPR																				
 
-There ain't a body, be it mouse or man, that ain't made better by a little soup.	insert	literature	Kate DiCamillo	The Tale of Despereaux	233	2003	Candlewick Press																				
+There ain&rsquo;t a body, be it mouse or man, that ain&rsquo;t made better by a little soup.	insert	literature	Kate DiCamillo	The Tale of Despereaux	233	2003	Candlewick Press																				
 
-I don't believe in twisting yourself into knots of excuses and explanations over the food you make. 	squeeze	literature	Julia Child	My Life in France	71	2006	Alfred A. Knopf																				
+I don&rsquo;t believe in twisting yourself into knots of excuses and explanations over the food you make. 	squeeze	literature	Julia Child	My Life in France	71	2006	Alfred A. Knopf																				
 
-You could learn everything about a couple just watching their kitchen choreography as they prepared dinner	move	literature	Erica Bauermeister	The School of Essential Ingredients	60	2009	G. P. Putnam's Sons																				
+You could learn everything about a couple just watching their kitchen choreography as they prepared dinner.	move	literature	Erica Bauermeister	The School of Essential Ingredients	60	2009	G. P. Putnam's Sons																				
 
-[The kitchen] was also messy--delightfully so, thought Jane--and it didn't look as though lots of cooking went on there... This is the kitchen of a Thinker, she decided, and promised herself that she'd never bother with cooking, either.	turn-off	literature	Jeanne Birdsall	The Penderwicks on Gardam Street	185	2008	Alfred A. Knopf																				
+[The kitchen] was also messy&mdash;delightfully so, thought Jane&mdash;and it didn&rsquo;t look as though lots of cooking went on there... This is the kitchen of a Thinker, she decided, and promised herself that she&rsquo;d never bother with cooking, either.	turn-off	literature	Jeanne Birdsall	The Penderwicks on Gardam Street	185	2008	Alfred A. Knopf																				
 
 I want them to bite into a cookie, and think of me, and smile. Food is love. Food has a power. I knew it in my mind, but now I know it in my heart.	cut	literature	Jael McHenry	The Kitchen Daughter	272	2011	Gallery Books																				
 
 Cook was something women did to nourish and nurture their families, whereas for men it was largely something they did professionally to gain money and status.	fill	literature	Padma Lakshmi	"Love, Loss, and What We Ate: A Memoir"		2013	Ecco																				
 
-Tita knew through her own flesh how fire transforms the elements, how a lump of corn flour is changed into a tortilla, how a soul that hasn&lsquo;t been warmed by the fire of love is lifeless, like a useless ball of corn flour."	press	literature	Laura Esquivel	Like Water for Chocolate		1989	Doubleday																				
+Tita knew through her own flesh how fire transforms the elements, how a lump of corn flour is changed into a tortilla, how a soul that hasn&rsquo;t been warmed by the fire of love is lifeless, like a useless ball of corn flour.	press	literature	Laura Esquivel	Like Water for Chocolate		1989	Doubleday																				
 
 Food becomes a subtle way of showing intimacy.	turn-on	socialmedia	Obi Emelonye interviewed by Graihagh Jackson	"""Fantasy, fiction, and food,"" The Food Chain"	3:20		BBC																				
 
-Zip it kiddo. Don&rsquo;t ever admit you know a thing about cooking or it'll be used against you later in life.	close	literature	Rebecca Wells	Little Altars Everywhere		1992	Broken Moon Press		HarperPerrenial	1996																	
+Zip it kiddo. Don&rsquo;t ever admit you know a thing about cooking or it&rsquo;ll be used against you later in life.	close	literature	Rebecca Wells	Little Altars Everywhere		1992	Broken Moon Press		HarperPerrenial	1996																	
 
-She quickly jumped back in with her favorite part of cooking, the smells that would influse the restaurant from  open to close.	fill	literature	Jenny Nelson	Georgia's Kitchen	267	2010	Gallery Books																				
+She quickly jumped back in with her favorite part of cooking, the smells that would infuse the restaurant from  open to close.	fill	literature	Jenny Nelson	Georgia's Kitchen	267	2010	Gallery Books																				
 
 I&rsquo;ve got a long history of scraping together little moments of peace in the midst of hardship, and cooking is a great way to do that.	peel	literature	Magaret Killjoy	The Lamb Will Slaughter the Lion	"""Five"""	2017	Tor																				
 
 Cooking is about surrender.	empty	literature	Tembi Locke	"From Scratch: A Memoir of Love, Sicily, and Finding Home"	69	2019	Simon & Schuster																				
 
-There&rsquo;s something brilliant about a recipe that doesn’t ask too much of you; a recipe, in fact, where getting it exactly right would be exactly wrong; a recipe you can fiddle with, and tend to when you remember.	squeeze	literature	Ella Risbridger	Midnight Chicken: & Other Recipes Worth Living For	"""Imperfect Pikelets"""	2019	Bloomsbury																				
+There&rsquo;s something brilliant about a recipe that doesn&rsquo;t ask too much of you; a recipe, in fact, where getting it exactly right would be exactly wrong; a recipe you can fiddle with, and tend to when you remember.	squeeze	literature	Ella Risbridger	Midnight Chicken: & Other Recipes Worth Living For	"""Imperfect Pikelets"""	2019	Bloomsbury																				
 
-Baking calms me; it's stabilizing. It's what I do when I don&rsquo;t want to think about anything hard.	adjust	literature	Jenny Han	P.S. I Still Love You	18	2017	Simon & Schuster																				
+Baking calms me; it&rsquo;s stabilizing. It&rsquo;s what I do when I don&rsquo;t want to think about anything hard.	adjust	literature	Jenny Han	P.S. I Still Love You	18	2017	Simon & Schuster																				
 
 I carried recipes in my head like maps. All kinds of recipes: torn from abandoned magazines in busy railway stations, wheedled from people on the road, strange marriages of my own confection.	take	literature	Joanne Harris	Chocolat	"""Wednesday, February 9"""	1999	Berkley Publishing																				
 
@@ -338,7 +338,7 @@ My Aunt Sara says it&rsquo;s in our blood, an innate need to tell a story throug
 
 In the secret kitchen of my imagination I made them all, tested, tasted them, added to my collection of recipes wherever we went, pasted them into my scrapbook like photographs of old friends.	take	literature	Joanne Harris	Chocolat		1999	Berkley Publishing																				
 
-I was happy to spend some time in the kitchen. . .I&rsquo;ve got a long history of scraping together little moments of peace in the midst of hardship, and cooking is a great way to do that.	mix	literature	Margaret Killjoy	The Lamb Will Slaughter the Lion	"""Five"""	2017	Tor																				
+I was happy to spend some time in the kitchen...I&rsquo;ve got a long history of scraping together little moments of peace in the midst of hardship, and cooking is a great way to do that.	mix	literature	Margaret Killjoy	The Lamb Will Slaughter the Lion	"""Five"""	2017	Tor																				
 
 Good cooking is a form of benevolence. 	pour	literature	Dorothy Whipple	Because Of The Lockwoods		1949	John Murray		Persephone Books	2014																	
 
@@ -346,7 +346,7 @@ Good cooking is a form of benevolence. 	pour	literature	Dorothy Whipple	Because 
 
 &ldquo;I stuck my finger in his eye, he would not let my hair go. It was definitely about to be a murder. And it was going to be me.&rdquo;	press	socialmedia	"Sonya Kristina King, interviewed by Emily Thomas"	"""How dangerous is your food delivery?"" The Food Chain, 1:52"		31 October 2019	BBC																				
 
-&ldquo;Everything was so fast but so slow at the same time. I could not believe that an actual grown man was trying to hurt me.&rdquo;	squeeze	podcast	"Sonya Kristina King, interviewed by Emily Thomas"	"""How dangerous is your food delivery?"" The Food Chain, 7:00"		31 October 2019	BBC																				
+&ldquo;Everything was so fast but so slow at the same time. I could not believe that an actual grown man was trying to hurt me.&rdquo;	squeeze	socialmedia	"Sonya Kristina King, interviewed by Emily Thomas"	"""How dangerous is your food delivery?"" The Food Chain, 7:00"		31 October 2019	BBC																				
 
 Do you think that [food delivery] is a dangerous job for women in particular? &ldquo;Yes. I do.&rdquo;	cut	socialmedia	"Sonya Kristina King, interviewed by Emily Thomas"	"""How dangerous is your food delivery?"" The Food Chain, 10:50"		31 October 2019	BBC																				
 

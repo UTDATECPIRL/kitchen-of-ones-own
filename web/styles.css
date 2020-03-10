@@ -604,7 +604,7 @@ body {
 	to { opacity: 0; }
 }
 .div-top-text p {
-	width: 2952px; /* take away 120px to account for padding */
+	width: 2852px; /* take away 120px to account for padding */
 	max-height: 2732px; 
 	z-index: 3;
 	/* font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";*/
