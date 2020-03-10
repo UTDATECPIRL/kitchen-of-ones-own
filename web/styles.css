@@ -530,6 +530,18 @@ body {
 }
 
 /* ///// divs for text //////////////*/
+.m-fadeOut {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 300ms, opacity 3000ms;
+}
+.m-fadeIn {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 2000ms;
+  transition-delay: 1000ms;
+}
+
 .verb {
 	padding: 12px 25px ;
 	position: fixed;
@@ -541,6 +553,10 @@ body {
 	font-family: "Roboto-Medium", "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	color: #000;
 	font-size: 60px;
+	animation-name: fadein;
+	animation-duration: 2s ;
+	animation-delay: 2s;
+	animation-fill-mode: forwards;
 }
 
 
@@ -553,7 +569,10 @@ body {
 	position: absolute;
 	top: 0;
 	left: 0;
-	animation: fadeIn ease 3s;
+	animation-name: fadein;
+	animation-duration: 2s ;
+	animation-delay: 2s;
+	animation-fill-mode: forwards;
 }
 .div-top-fade-in {
 	animation-name: fadein;

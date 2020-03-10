@@ -242,8 +242,11 @@ function enqueueVideo() {
 
 function fadeText() {
 	let textdiv = document.getElementById('quote-text');
-	textdiv.classList.remove('div-top-fade-in');
-	textdiv.classList.add('div-top-fade-out');
+	textdiv.classList.toggle('m-fadeIn');
+	textdiv.classList.toggle('m-fadeOut');
+	let tagdiv = document.getElementById('verb-text');
+	tagdiv.classList.toggle('m-fadeIn');
+	tagdiv.classList.toggle('m-fadeOut');
 	setTimeout(runExhibit, 3000);
 }
 
@@ -251,8 +254,10 @@ function enableNewPage() {
 	//return "almost implemented"
 	let textdiv = document.getElementById('quote-text');
 	let tagdiv = document.getElementById('verb-text');
-	textdiv.classList.remove('div-top-fade-in');
-	textdiv.classList.add('div-top-fade-out');
+	//textdiv.classList.remove('div-top-fade-in');
+	//textdiv.classList.add('div-top-fade-out');
+	//tagdiv.classList.remove('div-top-fade-in');
+	//tagdiv.classList.add('div-top-fade-out');
 	let activeVideoDivs = document.getElementsByClassName("active-video");
 	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
 		var activeVideo = activeVideoDivs[activeVideoDiv];
@@ -270,14 +275,20 @@ function enableNewPage() {
 		let newVideoDiv = activeVideoDivs[activeVideoDiv].getElementsByTagName('video')[0];
 		newVideoDiv.play();
 	}
+	//textdiv.classList.add('div-top-fade-in');
+	//textdiv.classList.remove('div-top-fade-out');
 	textdiv.classList.remove('literature','journalism','socialmedia');
 	textdiv.classList.add(datum['Type']);
-	textdiv.classList.add('div-top-fade-in');
-	textdiv.classList.remove('div-top-fade-out');
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	textdiv.classList.toggle('m-fadeOut');
+	textdiv.classList.toggle('m-fadeIn');
+	//tagdiv.classList.add('div-top-fade-in');
+	//tagdiv.classList.remove('div-top-fade-out');
 	tagdiv.classList.remove('literature-tag','journalism-tag','socialmedia-tag');
 	tagdiv.classList.add(datum['Type'] + '-tag');
 	tagdiv.innerHTML = '#' + datum['Verb'] ;
+	tagdiv.classList.toggle('m-fadeOut');
+	tagdiv.classList.toggle('m-fadeIn');
 		
 }
 
