@@ -6,7 +6,8 @@ console.log(incomingURL);
 let database = {};
 let videofiles = {};
 
-fetch('videofiles.txt')
+//fetch('videofiles.txt')
+fetch('epickitchens_clips_db.txt')
 	.then((response) => {
     	//response => response.clone.text();
 		//console.log(response);
@@ -16,7 +17,7 @@ fetch('videofiles.txt')
 		console.log("raw videofiles: " + mydata);
 		videofiles = readCSVfile(mydata);
 		console.log("videofiles: " + videofiles);
-
+		sortVideoFilesByVerbs(videofiles);
 	});
 
 fetch('Epic-Kitchen-Ones-Own-Database.txt')
@@ -84,11 +85,32 @@ let XbeX = [
 					{ "class": "div-8-bottom08", "size": "8up" }, { "class": "div-1", "size": "1up" }
 				];
 
+let XbeXFloat = [  
+					{ "class": "div-8", "size": "8up" }, { "class": "div-8-top08", "size": "8up" }, 
+					{ "class": "div-8-mid1-02", "size": "8up" }, { "class": "div-8-mid1-07", "size": "8up" },  
+					{ "class": "div-8-mid2-03", "size": "8up" }, { "class": "div-8-mid2-06", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, { "class": "div-8-mid6-02", "size": "8up" },
+					{ "class": "div-8-mid6-06", "size": "8up" }, { "class": "div-8-bottom01", "size": "8up" },  
+					{ "class": "div-8-bottom08", "size": "8up" }
+				];
+
 let VerticalLine = [ 
 					{ "class": "center-8-top1", "size": "8up" }, { "class": "center-8-top2", "size": "8up" }, 
 					{ "class": "center-half-vid", "size": "2up" }, 
 					{ "class": "center-8-top6", "size": "8up" }, { "class": "center-8-top8", "size": "8up" }, 
 					{ "class": "div-1", "size": "1up" }
+				];
+
+let VerticalLineFloat = [ 
+					{ "class": "center-8-top1", "size": "8up" }, { "class": "center-8-top2", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, 
+					{ "class": "center-8-top6", "size": "8up" }, { "class": "center-8-top8", "size": "8up" }
+				];
+
+let HorizontalLineFloat = [ 
+					{ "class": "center-8-left1", "size": "8up" }, { "class": "center-8-left2", "size": "8up" }, 
+					{ "class": "center-half-vid", "size": "2up" }, 
+					{ "class": "center-8-left6", "size": "8up" }, { "class": "center-8-left7", "size": "8up" }
 				];
 
 let HorizontalLine = [ 
@@ -112,8 +134,9 @@ let videoDivsBySize =
 */					
 
 let layouts = [ OneOnFourUp, TwoOnFourUp, FourUp, EightUp, 
-				EightDown, FourOnFour, KitchenSink, 
-				XbeX, VerticalLine,  HorizontalLine ];
+				EightDown, FourOnFour, // KitchenSink, 
+				XbeX, VerticalLine,  HorizontalLine, 
+				XbeXFloat, VerticalLineFloat,  HorizontalLineFloat ];
 let queuedVideos = [];
 let videosToQueue = 0;
 let readyToDisplay = false;
@@ -182,6 +205,21 @@ function getParameterByName(name, url) {
 }
 
 let nextLine = parseInt(getParameterByName('start'));
+let sortedByVerbs = {}
+let usedByVerbs = {}
+
+function sortVideoFilesByVerbs(videofiles) {
+	for (let i=0; i < videofiles.length; i++) {
+		let currentVideo = videofiles[i];
+		let currentVerb = currentVideo['verb']
+		if (! (currentVerb in sortedByVerbs)) {
+			sortedByVerbs[currentVerb] = [currentVideo];
+		} else {
+			sortedByVerbs[currentVerb].push(currentVideo);
+		}
+	}
+	console.log(sortedByVerbs);
+}
 
 function chooseLayout() {
 	return layouts[Math.floor(Math.random()*layouts.length)];
@@ -202,14 +240,22 @@ function chooseLine() {
 function chooseVideos(count, verb) {
 	let videoList = [];
 	for (let i=0; i < count; i++) {
-		//if ( verb == undefined) {
+		if ( verb == undefined) {
 			let candidate_video = videofiles[Math.floor(Math.random()*videofiles.length)];
 			videoList.push(candidate_video['filename']);
 
 		}
-		//else {
+		else {
+			if (sortedByVerbs[verb].length < count) {
+				sortedByVerbs[verb] = sortedByVerbs[verb].concat(usedByVerbs[verb]);
+				usedByVerbs[verb] = [];
+			}
+			for (let j=0; j<count;j++) {
+				let candidate_video = sortedByVerbs[verb][Math.floor(Math.random()*videofiles.length)];
+				videoList.push(candidate_video['filename']);
 
-		//}
+			}
+		}
 		return videoList;
 	//}
 
