@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import ffmpeg
 import math
@@ -82,7 +81,7 @@ def make_timed_clips_around_verbs(row):
 			.run(quiet=False)
 		)	
 	except:
-		print("source video read fail skipping",masterfile_name, sys.exc_info()[0])
+		print("source video read fail skipping",masterfile_name, sys.exc_info())
 		return
 	print('writing master')
 	try:
@@ -144,13 +143,14 @@ action_db = pd.read_csv("EPIC_train_action_labels.csv", delimiter = ',')
 #rows.apply(make_clip_file_from_action, axis=1)
 #rows.apply(make_timed_clips_around_verbs, axis=1)
 
-rows = action_db[(action_db['verb'].isin( ['adjust', 'check', 'cut', 
-											'empty' , 'fill', 'flip', 
-											'insert', 'mix', 'move', 'peel', 
-											'pour', 'press' , 'put', 
-											'remove', 'scoop', 'shake',
-											'squeeze' , 'throw' , 'turn',
-											'turn-off' , 'turn-on' , 'wash'     ])) ].sort_values(['verb','noun'])
+# rows = action_db[(action_db['verb'].isin( ['adjust', 'check', 'cut', 
+# 											'empty' , 'fill', 'flip', 
+# 											'insert', 'mix', 'move', 'peel', 
+# 											'pour', 'press' , 'put', 
+# 											'remove', 'scoop', 'shake',
+# 											'squeeze' , 'throw' , 'turn',
+# 											'turn-off' , 'turn-on' , 'wash'     ])) ].sort_values(['verb','noun'])
+rows = action_db[(action_db['verb'].isin( [ 'wash'     ])) ].sort_values(['verb','noun'])
 #rows.apply(make_clip_file_from_action, axis=1)
 rows.apply(make_timed_clips_around_verbs, axis=1)
 
