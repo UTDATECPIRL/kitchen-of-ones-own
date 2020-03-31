@@ -133,8 +133,8 @@ let videoDivsBySize =
 
 let vimeoDivsBySize = 
 {
-	"_4up" : "<iframe src='https://player.vimeo.com/video/xxxxxxxxxx?loop=true&autoplay=1&autopause=0&byline=false&portrait=false&title=false&controls=false'"  + 
-				" width='768' height='684' frameborder='0' ></iframe>" 
+	"_4up" : "<div class='center-center-vid' ><iframe src='https://player.vimeo.com/video/xxxxxxxxxx?loop=true&autoplay=1&autopause=0&muted=true&byline=false&portrait=false&title=false&controls=false'"  + 
+				" width='921' height='821' frameborder='0' ></iframe></div>" 
 }
 /*let videoDivsBySize = 
 					{ "_1up" : '<video width="3072" height="2732"  autoplay loop  muted >\n',
@@ -381,6 +381,6 @@ function runExhibit(database) {
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
-		setTimeout(fadeText, 30000);
+		setTimeout(fadeText, 300000);
 }
 
