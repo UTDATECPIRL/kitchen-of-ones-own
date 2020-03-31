@@ -46,7 +46,7 @@ body {
 .journalism {
 	font-family: "MomsTypewriter", courier, Times New Roman, Baskerville, "serif";
 	color: rgba(167,24,26,1.00); /*red */
-	font-size: calc(70px + (130 - 70) * ((100vw - 800px) / (1920 - 800)));
+	font-size: calc(60px + (110 - 60) * ((100vw - 800px) / (1920 - 800)));
 }
 .literature {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
@@ -60,7 +60,7 @@ body {
 .socialmedia {
 	font-family: "Roboto-Medium", "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	color: rgba(70,180,176,1.00); /* blue */
-	font-size: calc(80px + (140 - 80) * ((100vw - 800px) / (1920 - 800)));
+	font-size: calc(70px + (110 - 70) * ((100vw - 800px) / (1920 - 800)));
 }
 .journalism-tag {
 	background-color: rgba(167,24,26,1.00); /*red */
@@ -621,7 +621,7 @@ margin: 0 auto;
 	to { opacity: 0; }
 }
 .div-top-text p {
-	width: 58%; /* take away 120px to account for padding */
+	width: 70%; /* take away 120px to account for padding */
 	max-height: 60%; 
 	z-index: 3;
 	/* font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";*/
@@ -629,7 +629,7 @@ margin: 0 auto;
 	/*color: rgba(221,199,199,1.00);  very pale pink */
 	/* color: rgba(249,93,96,1.00); /* muted red */
 	/* color: rgba(215,215,8,1.00); /* gold */
-	margin: 0 1%;
+	/* margin: 0 1%; */
 	/* position: relative;
 	top: 0;
 	left: 0; */

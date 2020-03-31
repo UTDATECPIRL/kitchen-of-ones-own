@@ -7,7 +7,7 @@ let database = {};
 let videofiles = {};
 
 //fetch('videofiles.txt')
-fetch('epickitchens_clips_db_vimeotest.txt')
+fetch('epickitchens_clips_db.txt')
 	.then((response) => {
     	//response => response.clone.text();
 		//console.log(response);
@@ -125,6 +125,10 @@ let justCenter4up = [
 						{ "class": "center-half-vid", "size": "4up" }
 				];
 
+let bgCenter2up = [
+						{ "class": "", "size": "2up" }
+				];
+
 let videoDivsBySize = 
 					{ "_1up" : '<video width="3072" height="2732"   loop  muted >\n',
 					 "_2up" : '<video width="1536" height="1366"   loop  muted >\n',
@@ -134,7 +138,9 @@ let videoDivsBySize =
 let vimeoDivsBySize = 
 {
 	"_4up" : "<div class='center-center-vid' ><iframe src='https://player.vimeo.com/video/xxxxxxxxxx?loop=true&autoplay=1&autopause=0&muted=true&byline=false&portrait=false&title=false&controls=false'"  + 
-				" width='921' height='821' frameborder='0' ></iframe></div>" 
+				" width='921' height='821' frameborder='0' ></iframe></div>" ,
+	"_2up" : "<div id='bgvideo' ><iframe src='https://player.vimeo.com/video/xxxxxxxxxx?loop=true&autoplay=1&autopause=0&muted=true&byline=false&portrait=false&title=false&controls=false'"  + 
+				" width='1536' height='1366' frameborder='0' ></iframe></div>" 
 }
 /*let videoDivsBySize = 
 					{ "_1up" : '<video width="3072" height="2732"  autoplay loop  muted >\n',
@@ -143,7 +149,7 @@ let vimeoDivsBySize =
 					 "_8up" : '<video width="384" height="342"  autoplay loop  muted >\n'};
 */					
 
-let layouts = [ justCenter4up ];
+let layouts = [ bgCenter2up ];
 let queuedVideos = [];
 let videosToQueue = 0;
 let readyToDisplay = false;
@@ -381,6 +387,6 @@ function runExhibit(database) {
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
-		setTimeout(fadeText, 300000);
+		setTimeout(fadeText, 30000);
 }
 
