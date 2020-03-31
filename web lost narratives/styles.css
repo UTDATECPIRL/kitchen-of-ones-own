@@ -71,6 +71,9 @@ body {
 .socialmedia-tag {
 	background-color: rgba(70,180,176,1.00); /* blue */
 }
+.smaller {
+	font-size: smaller;
+}
 
 /*//////////// divs for videos //////////////*/
 
