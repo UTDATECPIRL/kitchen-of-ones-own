@@ -356,11 +356,11 @@ function enableNewPage() {
 	}
 	//textdiv.classList.add('div-top-fade-in');
 	//textdiv.classList.remove('div-top-fade-out');
-	textdiv.classList.remove('literature','journalism','socialmedia','smaller');
-	textdiv.classList.add(datum['Type']);
-	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
-	textdiv.classList.toggle('m-fadeOut');
-	textdiv.classList.toggle('m-fadeIn');
+	//textdiv.classList.remove('literature','journalism','socialmedia');
+	//textdiv.classList.add(datum['Type']);
+	//textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	//textdiv.classList.toggle('m-fadeOut');
+	//textdiv.classList.toggle('m-fadeIn');
 	//tagdiv.classList.add('div-top-fade-in');
 	//tagdiv.classList.remove('div-top-fade-out');
 	//tagdiv.classList.remove('literature-tag','journalism-tag','socialmedia-tag');
@@ -385,10 +385,10 @@ function runExhibit(database) {
 		//newVideoDiv.oncanplaythrough = enqueueVideo ; 
 	}
 	let textdiv = document.getElementById('quote-text');
-	textdiv.classList.remove('literature','journalism','socialmedia','smaller');
+	textdiv.classList.remove('literature','journalism','socialmedia');
 	textdiv.classList.add(datum['Type']);
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
-	if (datum['Quote'].length > 100) textdiv.classList.add('smaller');
+	//if (datum['Quote'].length > 100) textdiv.classList.add('smaller');
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
 		setTimeout(fadeText, 27000);

@@ -39,8 +39,7 @@ Twas a rough night.	wash	literature	Shakespeare	Macbeth	Line 832	1603-06	Folio o
 
 O horror, horror, horror! Tongue nor heart<br />Cannot conceive nor name thee!	wash	literature	Shakespeare	Macbeth	Line 835	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Threescore and ten I can remember well:<br />Within the volume of which time I have seen<br />Hours dreadful and things strange; but this sore night<br />
-Hath trifled former knowings.	wash	literature	Shakespeare	Macbeth	Line 950	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>Threescore and ten I can remember well:<br />Within the volume of which time I have seen<br />Hours dreadful and things strange; but this sore night<br />Hath trifled former knowings.</span>	wash	literature	Shakespeare	Macbeth	Line 950	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
 How now, my lord! why do you keep alone	wash	literature	Shakespeare	Macbeth	Line 1178	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
@@ -48,15 +47,15 @@ This is the very painting of your fear	wash	literature	Shakespeare	Macbeth	Line 
 
 Double, double toil and trouble;<br />Fire burn, and cauldron bubble.	wash	literature	Shakespeare	Macbeth	Line 1558	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Whither should I fly?<br />I have done no harm. But I remember now<br />I am in this earthly world	wash	literature	Shakespeare	Macbeth	Line 1820	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>Whither should I fly?<br />I have done no harm. But I remember now<br />I am in this earthly world</span>	wash	literature	Shakespeare	Macbeth	Line 1820	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
 I have lost my hopes.	wash	literature	Shakespeare	Macbeth	Line 1872	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-I think our country sinks beneath the yoke;<br />It weeps, it bleeds; and each new day a gash<br />Is added to her wounds: I think withal<br />There would be hands uplifted in my right	wash	literature	Shakespeare	Macbeth	Line 1890	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>I think our country sinks beneath the yoke;<br />It weeps, it bleeds; and each new day a gash<br />Is added to her wounds: I think withal<br />There would be hands uplifted in my right</span>	wash	literature	Shakespeare	Macbeth	Line 1890	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
 What is it she does now? Look, how she rubs her hands.	wash	literature	Shakespeare	Macbeth	Line 2153	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-It is an accustomed action with her, to seem thus<br />washing her hands: I have known her continue in<br />this a quarter of an hour.	wash	literature	Shakespeare	Macbeth	Line 2155	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>It is an accustomed action with her, to seem thus<br />washing her hands: I have known her continue in<br />this a quarter of an hour.</span>	wash	literature	Shakespeare	Macbeth	Line 2155	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
 Out, damned spot! out, I say!&mdash;One:two: why,<br />then, &rsaquo;tis time to do&apos;t.	wash	literature	Shakespeare	Macbeth	Line 2160	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
