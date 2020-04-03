@@ -1,90 +1,67 @@
 Quote	Verb	Type	Author	Title	Page	Original Publication Date	Original Publisher	Reprint Collection or URL	Reprint Publisher	Reprint Publication Date	Pseudonymn	Translator	Social Profile Information														
 
-When the hurlyburly's done, When the battle's lost and won.	wash	literature	Shakespeare	Macbeth	Line 5	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+When the hurlyburly&rsquo;s done, When the battle&rsquo;s lost and won.	wash	literature	Shakespeare	Macbeth	Line 5	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Fair is foul, and foul is fair: Hover through the fog and filthy air.	wash	literature	Shakespeare	Macbeth	Line 13	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;Fair is foul, and foul is fair: Hover through the fog and filthy air.&rdquo;	wash	literature	Shakespeare	Macbeth	Line 13	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-The multiplying villanies of nature<br />Do swarm upon him&mdash;from the western isles	wash	literature	Shakespeare	Macbeth	Line 30	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;What, can the devil speak true?&rdquo;	wash	literature	Shakespeare	Macbeth	Line 212	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-If you can look into the seeds of time,<br />And say which grain will grow and which will not,<br />Speak then to me, who neither beg nor fear<br />Your favours nor your hate.	wash	literature	Shakespeare	Macbeth	Line 160	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Come what come may,<br>Time and the hour runs through the roughest day.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 262	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-What, can the devil speak true?	wash	literature	Shakespeare	Macbeth	Line 212	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Art not without ambition, but without<br>The illness should attend it: what thou wouldst highly,<br>That wouldst thou holily; wouldst not play false&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 363	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Come what come may,<br />
-Time and the hour runs through the roughest day.	wash	literature	Shakespeare	Macbeth	Line 262	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Thy letters have transported me beyond<br>This ignorant present, and I feel now<br>The future in the instant.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 410	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-The interim having weigh&apos;d it, let us speak<br />Our free hearts each to other.	wash	literature	Shakespeare	Macbeth	Line 270	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Where they most breed and haunt, I have observed,<br>The air is delicate.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 433	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-That hast no less deserved, nor must be known<br />No less to have done so, let me enfold thee<br />And hold thee to my heart.	wash	literature	Shakespeare	Macbeth	Line 310	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;I had most need of blessing, and &lsquo;Amen&rsquo;<br>Stuck in my throat.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 690	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-What thou art promised: yet do I fear thy nature;<br />It is too full o' the milk of human kindness<br />To catch the nearest way: thou wouldst be great;	wash	literature	Shakespeare	Macbeth	Line 360	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Go get some water,<br>And wash this filthy witness from your hand.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 706	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Art not without ambition, but without<br />The illness should attend it: what thou wouldst highly,<br />That wouldst thou holily; wouldst not play false<br />	wash	literature	Shakespeare	Macbeth	Line 363	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;Twas a rough night.&rdquo;	wash	literature	Shakespeare	Macbeth	Line 832	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Thy letters have transported me beyond<br />This ignorant present, and I feel now<br />The future in the instant.<br />	wash	literature	Shakespeare	Macbeth	Line 410	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Threescore and ten I can remember well:<br>Within the volume of which time I have seen<br>Hours dreadful and things strange; but this sore night<br>Hath trifled former knowings.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 950	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Look like the time; bear welcome in your eye,<br />Your hand, your tongue: look like the innocent flower,<br />But be the serpent under&apos;t.<br />	wash	literature	Shakespeare	Macbeth	Line 420	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;How now, my lord! why do you keep alone,&rdquo;	wash	literature	Shakespeare	Macbeth	Line 1178	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Where they most breed and haunt, I have observed,<br />The air is delicate.	wash	literature	Shakespeare	Macbeth	Line 433	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;This is the very painting of your fear:&rdquo;	wash	literature	Shakespeare	Macbeth	Line 1348	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Away, and mock the time with fairest show:<br />False face must hide what the false heart doth know.	wash	literature	Shakespeare	Macbeth	Line 565	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Double, double toil and trouble;<br>Fire burn, and cauldron bubble.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 1558	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-I had most need of blessing, and &lsquo;Amen&rsquo;<br />Stuck in my throat.	wash	literature	Shakespeare	Macbeth	Line 690	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Whither should I fly?<br>I have done no harm. But I remember now<br>I am in this earthly world;&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 1820	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-These deeds must not be thought<br />After these ways; so, it will make us mad.	wash	literature	Shakespeare	Macbeth	Line 693	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;I have lost my hopes.&rdquo;	wash	literature	Shakespeare	Macbeth	Line 1872	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Go get some water,<br />And wash this filthy witness from your hand.	wash	literature	Shakespeare	Macbeth	Line 706	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;I think our country sinks beneath the yoke;<br>It weeps, it bleeds; and each new day a gash<br>
+	Is added to her wounds: I think withal<br>There would be hands uplifted in my right;&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 1890	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Twas a rough night.	wash	literature	Shakespeare	Macbeth	Line 832	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;What is it she does now? Look, how she rubs her hands.&rdquo;	wash	literature	Shakespeare	Macbeth	Line 2153	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-O horror, horror, horror! Tongue nor heart<br />Cannot conceive nor name thee!	wash	literature	Shakespeare	Macbeth	Line 835	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;It is an accustomed action with her, to seem thus<br>washing her hands: I have known her continue in<br>this a quarter of an hour.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 2155	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Threescore and ten I can remember well:<br />Within the volume of which time I have seen<br />Hours dreadful and things strange; but this sore night<br />
-Hath trifled former knowings.	wash	literature	Shakespeare	Macbeth	Line 950	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;Out, damned spot! out, I say!&mdash;One: two: why,
+	then, &rsquo;tis time to do&rsquo;t.&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 2160	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-How now, my lord! why do you keep alone	wash	literature	Shakespeare	Macbeth	Line 1178	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;What, will these hands ne&rsquo;er be clean?&ldquo;	wash	literature	Shakespeare	Macbeth	Line 2167	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-This is the very painting of your fear	wash	literature	Shakespeare	Macbeth	Line 1348	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;Wash your hands, put on your nightgown; look not so pale.&rdquo;	wash	literature	Shakespeare	Macbeth	Line 2185	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Double, double toil and trouble;<br />Fire burn, and cauldron bubble.	wash	literature	Shakespeare	Macbeth	Line 1558	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+&ldquo;What news more?&rdquo;	wash	literature	Shakespeare	Macbeth	Line 2280	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
-Whither should I fly?<br />I have done no harm. But I remember now<br />I am in this earthly world	wash	literature	Shakespeare	Macbeth	Line 1820	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-I have lost my hopes.	wash	literature	Shakespeare	Macbeth	Line 1872	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-I think our country sinks beneath the yoke;<br />It weeps, it bleeds; and each new day a gash<br />Is added to her wounds: I think withal<br />There would be hands uplifted in my right	wash	literature	Shakespeare	Macbeth	Line 1890	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-What is it she does now? Look, how she rubs her hands.	wash	literature	Shakespeare	Macbeth	Line 2153	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-It is an accustomed action with her, to seem thus<br />washing her hands: I have known her continue in<br />this a quarter of an hour.	wash	literature	Shakespeare	Macbeth	Line 2155	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-Out, damned spot! out, I say!&mdash;One:two: why,<br />then, &rsaquo;tis time to do&apos;t.	wash	literature	Shakespeare	Macbeth	Line 2160	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-What, will these hands ne&apos;er be clean?	wash	literature	Shakespeare	Macbeth	Line 2167	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-Wash your hands, put on your nightgown; look not so pale.	wash	literature	Shakespeare	Macbeth	Line 2185	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-What news more?	wash	literature	Shakespeare	Macbeth	Line 2280	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-What is that noise?<br />It is the cry of women, my good lord.	wash	literature	Shakespeare	Macbeth	Line 2360	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
-
-To-morrow, and to-morrow, and to-morrow,<br />Creeps in this petty pace from day to day	wash	literature	Shakespeare	Macbeth	Line 2376	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
+<span class='poetry'>&ldquo;To-morrow, and to-morrow, and to-morrow,<br>Creeps in this petty pace from day to day&rdquo;</span>	wash	literature	Shakespeare	Macbeth	Line 2376	1603-06	Folio of 1623	https://www.opensourceshakespeare.org/	George Mason University	2003-20																	
 
 The truth is that everyone is bored, and devotes himself to cultivating habits.	wash	literature	Albert Camus	The Plague	1	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
 It will be said, no doubt, that these habits are not peculiar to our town; really all our contemporaries are much the same.	wash	literature	Albert Camus	The Plague	2	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
-Being ill&apos;s never agreeable but there are towns that stand by you, so to speak, when you are sick....	wash	literature	Albert Camus	The Plague	2	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+Being ill&rsquo;s never agreeable but there are towns that stand by you, so to speak, when you are sick....	wash	literature	Albert Camus	The Plague	2	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
 Naturally, a historian, even an amateur, always has data, personal or at second hand, to guide him.	wash	literature	Albert Camus	The Plague	3	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
 He found his first patient, an asthma case of long standing, in bed, in a room that served as both dining-room and bedroom and overlooked the street.	wash	literature	Albert Camus	The Plague	4	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
-I&apos;ve no use for statements in which something is kept back	wash	literature	Albert Camus	The Plague	6	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
-
 When shaking hands with him, Rieux suggested that if he was out for curious stories for his paper, he might say something about the extraordinary number of dead rats that were being found in the town just now.	wash	literature	Albert Camus	The Plague	6	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
-
-We&apos;ve not seen anything of the sort before....	wash	literature	Albert Camus	The Plague	6	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+We&rsquo;ve not seen anything of the sort before....	wash	literature	Albert Camus	The Plague	6	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert	
 
 ...he was looking tired and his normally rubicund face had lost its color.	wash	literature	Albert Camus	The Plague	6	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
@@ -94,49 +71,743 @@ You must picture the consternation of our little town, hitherto so tranquil, and
 
 ...this amazing figure administered a jolt to the public nerves.	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
-They&apos;re coming out, they&apos;re coming out...	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+&ldquo;They&rsquo;re coming out, they&rsquo;re coming out...&rdquo;	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert	
 
-On April 28, when the Ransdoc Bureau announced that 8,ooo rats had been collected, a wave of something like panic swept the town.	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+Everyone breathed more freely.	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert				
 
-Everyone breathed more freely.	wash	literature	Albert Camus	The Plague	8	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
-
-&ldquo;It&apos;s just swellings,&lrquo; he said. &ldquo;I must have strained myself somehow.&lrquo;	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
-
-Go to bed at once, and take your temperature. I'll come to see you this afternoon.	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
-
-Oh, I suppose it's an epidemic they've been having.	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+&ldquo;Go to bed at once, and take your temperature. I&rsquo;ll come to see you this afternoon.&rdquo;	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+&ldquo;Oh, I suppose it&rsquo;s an epidemic they&rsquo;ve been having.&rdquo;	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert		
 
 He blew his nose vigorously.	wash	literature	Albert Camus	The Plague	9	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
 &ldquo;Oh!&rdquo; The man slumped back on the bed and started sobbing weakly.	wash	literature	Albert Camus	The Plague	10	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
 
-&ldquo;Please, doctor,&lrquo; she said, &ldquo;what is it?&rdquo;	wash	literature	Albert Camus	The Plague	10	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+&ldquo;Please, doctor,&rdquo; she said, &ldquo;what is it?&rdquo;	wash	literature	Albert Camus	The Plague	10	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert		
 
 &ldquo;Well,&rdquo; Richard said, &ldquo;that depends on what you mean by &lsquo;normal.&rsquo;&rdquo;	wash	literature	Albert Camus	The Plague	10	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+Michel&rsquo;s death marked, one might say, the end of the first period, that of bewildering portents, and the beginning of another, relatively more trying, in which the perplexity of the early days gradually gave place to panic.	wash	literature	Albert Camus	The Plague	11	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert															
+So, at the bidding of the queen, they washed their hands, and all took their places...	wash	literature	Giovanni Boccaccio	The Decameron	26	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-Michel&apos;s death marked, one might say, the end of the first period, that of bewildering portents, and the beginning of another, relatively more trying, in which the perplexity of the early days gradually gave place to panic.	wash	literature	Albert Camus	The Plague	11	1947	Gallimard (Paris)	PDF online: https://antilogicalism.com/wp-content/uploads/2018/03/the-plague.pdf	Hamish Hamilton (Londond)	1948		Stuart Gilbert																																		
+[he] gave order to serve water for the hands, which being washen, they sat them all down to breakfast.	wash	literature	Giovanni Boccaccio	The Decameron	78	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-@AgBioWorld How to wash your hands the right way! Be sure sure to cover the entire palm...Please protect yourself against the deadly #coronavirus...#handwashing	wash	socialmedia	"Channa Prakash, @AgBioWorld"			"20 March 2020, 10:52am"	Twitter																				
+She then bade set the table, which done, Rinaldo and she washed their hands and sat down together to sup.	wash	literature	Giovanni Boccaccio	The Decameron	112	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-Handwashing is a simple and effective way to help prevent the spread of infectious diseases. Yet many countries have inadequate #handwashing facilities at home. http://wrld.bg/P1Qq50yQscX #COVID19	wash	socialmedia	"World Bank, @WorldBank"			"20 March 2020, 08:00am"	Twitter																				
+&ldquo;Can we not contrive that he somehow wash himself a little, that he stink not so shrewdly?&rdquo;	wash	literature	Giovanni Boccaccio	The Decameron	149	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-Congress must provide states with the funds they need to protect the right to vote amid #COVID19, including an expansion of #VoteByMail.	wash	socialmedia	"Stacey Abrams, @staceyabrams"			"20 March 2020, 4:39pm"	Twitter						"Founder of  @fairfightaction & @faircount & @The_SEAP Author of #LeadFromTheOutside. Co-founder & former SVP @NowAccount Writes as Selena Montgomery"														
+&ldquo;[W]e are now close to a well, which is never without the pulley and a large bucket; &rsquo;tis but a step thither, and we will wash him out of hand.&rdquo;	wash	literature	Giovanni Boccaccio	The Decameron	149	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-LONDON: Please act immediately on what we&apos;re saying today. Do not leave your home unless you have a very good reason. Do not go to work or use public transport, unless you do a critical job.
-If you ignore this advice, people could die. #COVID19	wash	socialmedia	"Sadiq Khan, @SadiqKhan"			"20 March 2020, 5:00pm"	Twitter						Mayor of London														
+[T]hey determined to attach him to the rope, and lower him into the well, there to wash himself....	wash	literature	Giovanni Boccaccio	The Decameron	149	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-The US and South Korea had their first COVID-19 cases on the same day. Two days ago South Korea did 274,000 tests and the US did 25000. WHERE. ARE. THE. DAMN. TESTS. #COVID19 (repost)	wash	socialmedia	"Eric Feigl-Ding, @DrEricDing"			"20 March 2020, 4:36pm"	Twitter						"Epidemiologist / Health Economist / Senior Fellow @FAScientists / PH scientist @Harvard / Harvard Ô07 J.Hopkins Ô04 / NYT-featPillwhistleblower / #COVID19 Updates"														
+On Saturday ladies are wont to wash the head, and rid their persons of whatever of dust or other soilure they may have gathered by the labours of the past week....	wash	literature	Giovanni Boccaccio	The Decameron	257-258	1370-71		http://flc.ahnu.edu.cn/__local/7/E7/75/6AB8DEBA692DD0CF6790CA70701_26DE4EC2_17EED4.pdf?e=.pdf	Coradella Collegiate Bookshelf Edition	2004		J.M. Rigg															
 
-Why is COVID-19 a bigger deal than the seasonal flu? Unlike the seasonal flu, the RNA sequences that make up a coronavirus are not recognized by the human immune system. This coronavirus (COVID-19) is also continually mutating, which makes developing a vaccine difficult. #COVID19	wash	socialmedia	"Dr. Richa Love, @drRichaLove"			"20 March 2020,  5:15pm"	Twitter																				
+She had been beautiful, much loved, unhappy, and she had died young.	wash	literature	Katherine Anne Porter	"Pale Horse, Pale Rider"	4	1936	The Modern Library New York	https://archive.org/stream/in.ernet.dli.2015.27876/2015.27876.Pale-Horse-Pale-Rider_djvu.txt	Archive.org																		
+The visible remains were nothing; they were dust, perishable as the flesh...	wash	literature	Katherine Anne Porter	"Pale Horse, Pale Rider"	8	1936	The Modern Library New York	https://archive.org/stream/in.ernet.dli.2015.27876/2015.27876.Pale-Horse-Pale-Rider_djvu.txt	Archive.org																		
+...and the moral seemed to be that one should always have Latin, or at least a good classical poetry quotation, to depend upon in great or desperate moments.	wash	literature	Katherine Anne Porter	"Pale Horse, Pale Rider"	15	1936	The Modern Library New York	https://archive.org/stream/in.ernet.dli.2015.27876/2015.27876.Pale-Horse-Pale-Rider_djvu.txt	Archive.org																		
 
-Today @realdonaldtrump said he thinks we&apos;ll never need a national lockdown to combat the spread of #COVID19. As an ER doc on the front lines against this virus, I think he&apos;s totally wrong &amp; that we should impose a national &ldquo;shelter in place&rdquo; right now. This is important.	wash	socialmedia	"Dr. Rob Davidson, @drRobDavidson"			"20 March 2020, 5:56pm"	Twitter																				
+I saw at once that something was very wrong.	wash	literature	Katherine Anne Porter	"Pale Horse, Pale Rider"	29	1936	The Modern Library New York	https://archive.org/stream/in.ernet.dli.2015.27876/2015.27876.Pale-Horse-Pale-Rider_djvu.txt	Archive.org																		
 
-I am not hiding. I am taking shelter.<br />I am not on lockdown. I am guarding my health.<br />I am not self isolating. I am staying home because I care about the vulnerable members of my community.<br />I am not scared. I am vigilant.	wash	socialmedia	"Mona Eltahawy, @monaeltahawy"			"20 March 2020, 5:41pm"	Twitter						"Feminist. Tattoos. #MUFC. The Seven Necessary Sins for Women & Girls (2019) https://amzn.to/2IK10q7, Headscarves & Hymens (2015) pic: S.Enriquez-Nistal. she/her"														
+&ldquo;Mammy, I&rsquo;m sick of this world. I don&rsquo;t like anything in it. It&rsquo;s so dull.&rdquo;	wash	literature	Katherine Anne Porter	"Pale Horse, Pale Rider"	30	1936	The Modern Library New York	https://archive.org/stream/in.ernet.dli.2015.27876/2015.27876.Pale-Horse-Pale-Rider_djvu.txt	Archive.org																		
+&ldquo;For Heaven's sake, it's too nice a day to be in the house. Why don&rsquo;t you go outdoors and get some exercise?&rdquo;	wash	literature	William Maxwell	They Came Like Swallows	5	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
 
-Instead of warning the public or pushing for faster preparation, Perdue & Loeffler downplayed the #COVID19 threat in public while adjusting their stock portfolios.	wash	socialmedia	"Jon Ossoff, @ossoff"			"20 March 2020, 5:49pm"	Twitter						Proud Georgian. Candidate for United States Senate.														
+Before this day was over, it too would be spoiled like all the others.	wash	literature	William Maxwell	They Came Like Swallows	8	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
 
-Today&apos;s #GoogleDoodle celebrates Ignaz Semmelweis, a Hungarian physician who championed the importance of hand washing to prevent the spread of infections #WashYourHands #HandWashing Soap	wash	socialmedia	"Compound Interest@compoundchem"			"20 March 2020, 4:47pm"	Twitter						"Graphics exploring everyday #chemistry ¥ Winner  @absw 2018 #science blog award __ ¥ Food chemistry book: http://bit.ly/whydoesasparagus __ ¥ #scicomm #IYPT2019"														
+It would have taken a very little thing at that moment to spill his sorrow.	wash	literature	William Maxwell	They Came Like Swallows	10	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
+If his mother were not there to protect him from whatever was unpleasant&mdash;from the weather and from Robert and from his father&mdash;what would he do?	wash	literature	William Maxwell	They Came Like Swallows	10	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
 
-Doorhandles, ATM machines, lift buttons, supermarket trolleys&mdash;the principles are the same. #handwashing is one of our best defences	wash	socialmedia	"DrSarahJarvis @DrSarahJarvis"			"20 March 2020, 5:40pm"	Twitter						"GP, clinical director  @patient Also on BBC 1's The One Show, GMB, BBC Radio 4, Channel 5 news & is resident doctor BBC R2's @theJeremyVine & @My_Weekly."														
+Whatever would become of him in a world where there was neither warmth nor comfort nor love?	wash	literature	William Maxwell	They Came Like Swallows	10	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
 
-&ldquo;Yes, it&apos;s possible you may have had it and didn&apos;t know it,&rdquo; says Dr. Lee Riley, MD...	wash	journalism	Markham Heid	Did You Have Coronavirus Without Knowing It?		20 March 2020	Medium	 https://elemental.medium.com/did-you-have-coronavirus-without-knowing-it-d33bbce9e9e5																			
+Feeling altogether sorry for himself, he began to imagine what it would be like if she were not there.	wash	literature	William Maxwell	They Came Like Swallows	10	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
+
+When his mother found the needle she had been looking for, she threaded it. Then she took up a square of white cloth.	wash	literature	William Maxwell	They Came Like Swallows	10-11	1937	"Harper Brothers, New York and London"	https://archive.org/details/theycamelikeswal00maxw	Archive.org Open Library	2010		Digitized by the Internet Archive															
+
+Considering how common illness is, how tremendous the spiritual change that it brings, how astonishing, when the lights of health go down,... what wastes and deserts of the soul a slight attack of influenza brings to light....	wash	literature	Virginia Woolf	"""On Being Ill"""	32	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+[W]hat ancient and obdurate oaks are uprooted in us in the act of sickness.	wash	literature	Virginia Woolf	"""On Being Ill"""	32	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+[I]t becomes strange indeed that illness has not taken its place with love, battle, and jealousy among the prime themes of literature.	wash	literature	Virginia Woolf	"""On Being Ill"""	32	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+Novels, one would have thought, would have been devoted to influenza; epic poems to typhoid; odes to pneumonia, lyrics to toothache. But no....	wash	literature	Virginia Woolf	"""On Being Ill"""	32	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+[O]f all this daily drama of the body there is no record.	wash	literature	Virginia Woolf	"""On Being Ill"""	33	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+More practically speaking, the public would say that a novel devoted to influenza lacked plot....	wash	literature	Virginia Woolf	"""On Being Ill"""	33	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+[A]mong the drawbacks of illness as matter for literature there is the poverty of the language.	wash	literature	Virginia Woolf	"""On Being Ill"""	33	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+
+English, which can express the thoughts of Hamlet and the tragedy of Lear, has no words for the shiver and the headache.	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+It has all grown one way. The merest schoolgirl, when she falls in love, has Shakespeare, Donne, Keats to speak her mind for her; but let a sufferer try to describe a pain in his head to a doctor and language at once runs dry.	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+He is forced to coin words himself, and, taking his pain in one hand, and a lump of pure sound in the other...so to crush them together that a brand new word in the end drops out.	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+Yet it is not only a new language that we need, primitive, subtle, sensual, obscene, but a new hierarchy of the passions; love must be deposed in favour of a temperature of 104....	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+But to return to the invalid. &lsquo;I am in bed with influenza,&rsquo; he says, and actually complains that he gets no sympathy.	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+&lsquo;I am in bed with influenza&rsquo; but what does that convey of the great experience; how the world has changed its shape; the tools of business grown remote; the sounds of festival become romantic like a merry-go-round heard across far fields	wash	literature	Virginia Woolf	"""On Being Ill"""	34	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+There is, let us confess it (and illness is the great confessional) a childish outspokenness in illness; things are said, truths blurted out, which the cautious respectability of health conceals.	wash	literature	Virginia Woolf	"""On Being Ill"""	36	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+[I]t is to the poets that we turn. Illness makes us disinclined for the long campaigns that prose exacts.	wash	literature	Virginia Woolf	"""On Being Ill"""	40	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+In illness words seem to possess a mystic quality.	wash	literature	Virginia Woolf	"""On Being Ill"""	41	1926	The Criterion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+Incomprehensibility has an enormous power over us in illness, more legitimately perhaps than the upright will allow.	wash	literature	Virginia Woolf	"""On Being Ill"""	41	1926	The Citerion	https://thenewcriterion1926.files.wordpress.com/2014/12/woolf-on-being-ill.pdf																			
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
