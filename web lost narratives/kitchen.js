@@ -283,9 +283,10 @@ function chooseVideos(count, verb) {
 
 function populateTextDiv(text) { 
 	let pClass = "";
-	if (text.length > 100) pClass = 'class="smaller"';
+	//if (text.length > 100) pClass = 'class="smaller"';
 
-	let thisdiv = '<p ' + pClass + '>' + text + '</p>';
+	//let thisdiv = '<p ' + pClass + '>' + text + '</p>';
+	let thisdiv = text;
 	return thisdiv ; 
 }
 
@@ -385,9 +386,11 @@ function runExhibit(database) {
 		//newVideoDiv.oncanplaythrough = enqueueVideo ; 
 	}
 	let textdiv = document.getElementById('quote-text');
-	textdiv.classList.remove('literature','journalism','socialmedia');
-	textdiv.classList.add(datum['Type']);
+	//textdiv.classList.remove('literature','journalism','socialmedia');
+	//textdiv.classList.add(datum['Type']);
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	textdiv.setAttribute("alt", datum['Title']);
+	textdiv.setAttribute("title", datum['Title']);
 	//if (datum['Quote'].length > 100) textdiv.classList.add('smaller');
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
