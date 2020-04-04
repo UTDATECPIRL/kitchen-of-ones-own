@@ -218,7 +218,7 @@ function getParameterByName(name, url) {
 }
 
 let nextLine = parseInt(getParameterByName('start'));
-let videoSource = getParameterByName('videosource');
+let videoSource = 'vimeo'; //getParameterByName('videosource');
 let sortedByVerbs = {}
 let usedByVerbs = {}
 
