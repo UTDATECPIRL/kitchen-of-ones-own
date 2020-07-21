@@ -14,9 +14,9 @@ fetch('epickitchens_clips_db.txt')
 		return response.text();
 	})
 	.then((mydata) => {
-		console.log("raw videofiles: " + mydata);
+		//console.log("raw videofiles: " + mydata);
 		videofiles = readCSVfile(mydata);
-		console.log("videofiles: " + videofiles);
+		//console.log("videofiles: " + videofiles);
 		sortVideoFilesByVerbs(videofiles);
 		fetch('Epic-Kitchen-Ones-Own-Database.txt')
 			.then((response) => {
