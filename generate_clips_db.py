@@ -2,11 +2,13 @@ import os
 from pathlib import Path
 
 #database = open('web/epickitchens_clips_db.txt', 'w')
-database = open('web lost narratives/epickitchens_clips_db.txt', 'w')
+#database = open('web lost narratives/epickitchens_clips_db.txt', 'w')
+database = open('installation/epickitchens_clips_db.txt', 'w')
 database.write('filename	verb	noun\n')
 
 #os.chdir('web/clips/timed_30')
-os.chdir('web lost narratives/clips/timed_30')
+#os.chdir('web lost narratives/clips/timed_30')
+os.chdir('installation/clips/timed_30')
 p = Path('.')
 verb = 0
 noun = 1

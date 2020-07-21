@@ -97,7 +97,7 @@ def make_timed_clips_around_verbs(row):
 		return
 		
 	time = 30 # 10, 20, 
-	root_dir = "web/clips/timed_%d" % time
+	root_dir = "installation/clips/timed_%d" % time
 	outfile_name = "%s/%s_%s_%s_1up.MP4" % (root_dir, row['verb'], row['noun'], row['video_id'] )
 	clip_length = time * 30
 	start_frame = 0 #max(0, row['start_frame'] - clip_length / 2)
@@ -150,7 +150,7 @@ action_db = pd.read_csv("EPIC_train_action_labels.csv", delimiter = ',')
 # 											'remove', 'scoop', 'shake',
 # 											'squeeze' , 'throw' , 'turn',
 # 											'turn-off' , 'turn-on' , 'wash'     ])) ].sort_values(['verb','noun'])
-rows = action_db[(action_db['verb'].isin( [ 'wash'     ])) ].sort_values(['verb','noun'])
+rows = action_db[(action_db['verb'].isin( [ 'dry' , 'close'   ])) ].sort_values(['verb','noun'])
 #rows.apply(make_clip_file_from_action, axis=1)
 rows.apply(make_timed_clips_around_verbs, axis=1)
 

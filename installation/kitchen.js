@@ -18,23 +18,23 @@ fetch('epickitchens_clips_db.txt')
 		videofiles = readCSVfile(mydata);
 		console.log("videofiles: " + videofiles);
 		sortVideoFilesByVerbs(videofiles);
+		fetch('Epic-Kitchen-Ones-Own-Database.txt')
+			.then((response) => {
+				return response.text();
+			})
+			.then((mycsv) => {
+				//console.log(mycsv);
+				database = readCSVfile(mycsv);
+				runExhibit(database);
+				//console.log(database);
+
+			});
 	});
 
-fetch('Epic-Kitchen-Ones-Own-Database.txt')
-	.then((response) => {
-		return response.text();
-	})
-	.then((mycsv) => {
-		//console.log(mycsv);
-		database = readCSVfile(mycsv);
-		runExhibit(database);
-		//console.log(database);
-
-	});
 
 //let database = readCSVfile('epic-kitchen-ones-own.csv');
-console.log("epic-kitchen-ones-own.csv");
-console.log(database);
+//console.log("epic-kitchen-ones-own.csv");
+//console.log(database);
 
 let OneOnFourUp = [
 
@@ -241,23 +241,33 @@ function chooseVideos(count, verb) {
 	let videoList = [];
 	for (let i=0; i < count; i++) {
 		if ( verb == undefined) {
-			let candidate_video = videofiles[Math.floor(Math.random()*videofiles.length)];
+			let randomVideoIndex = Math.floor(Math.random()*videofiles.length);
+			let candidate_video = videofiles[randomVideoIndex];
 			videoList.push(candidate_video['filename']);
 
 		}
 		else {
-			if (sortedByVerbs[verb].length < count) {
-				sortedByVerbs[verb] = sortedByVerbs[verb].concat(usedByVerbs[verb]);
-				usedByVerbs[verb] = [];
-			}
-			for (let j=0; j<count;j++) {
-				let candidate_video = sortedByVerbs[verb][Math.floor(Math.random()*videofiles.length)];
-				videoList.push(candidate_video['filename']);
-
+			if (sortedByVerbs[verb] != undefined){
+				if (Object.keys(sortedByVerbs[verb]).length > 0){
+					if (sortedByVerbs[verb].length < count) {
+						sortedByVerbs[verb] = sortedByVerbs[verb].concat(usedByVerbs[verb]);
+						usedByVerbs[verb] = [];
+					}
+					for (let j=0; j<count;j++) {
+						let randomVideoIndex = Math.floor(Math.random()*sortedByVerbs[verb].length);
+						let candidate_video = sortedByVerbs[verb][randomVideoIndex];
+						videoList.push(candidate_video['filename']);
+		
+					}
+				} else  {
+					console.log("chooseVideos", "hmmm, no videos for " + verb);
+				}
+			} else  {
+				console.log("chooseVideos", "hmmm, no data for " + verb);
 			}
 		}
 		return videoList;
-	//}
+	}
 
 }
 
@@ -281,6 +291,7 @@ function populateVideoDivs(videoList, layout) {
 function enqueueVideo() {
 	//alert("ready to play " + queuedVideos[0]);
 	queuedVideos.push(true);
+	console.log("enqueueVideo", queuedVideos.length + " of " + videosToQueue + " queued")
 	if (queuedVideos.length == videosToQueue) {
 		enableNewPage();
 	}
@@ -297,42 +308,51 @@ function fadeText() {
 }
 
 function enableNewPage() {
-	//return "almost implemented"
+	console.log("enableNewPage", )
 	let textdiv = document.getElementById('quote-text');
 	let tagdiv = document.getElementById('verb-text');
+	console.log("enableNewPage", tagdiv + ": " + textdiv);
 	//textdiv.classList.remove('div-top-fade-in');
 	//textdiv.classList.add('div-top-fade-out');
 	//tagdiv.classList.remove('div-top-fade-in');
 	//tagdiv.classList.add('div-top-fade-out');
 	let activeVideoDivs = document.getElementsByClassName("active-video");
+	console.log("enableNewPage", "deactivating: " + activeVideoDivs);
 	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
 		var activeVideo = activeVideoDivs[activeVideoDiv];
 		activeVideo.parentNode.removeChild(activeVideo);
 	}
 	let delayedVideoDivs = document.getElementsByClassName("delayed-video");
+	console.log("enableNewPage", "activating a: " + delayedVideoDivs);
 	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
 		delayedVideoDivs[delayedVideoDiv].classList.add("active-video");
 	}
+	console.log("enableNewPage", "activating b: " + delayedVideoDivs);
 	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
 		delayedVideoDivs[delayedVideoDiv].classList.remove("delayed-video");
 	}
 	activeVideoDivs = document.getElementsByClassName("active-video");
+	console.log("enableNewPage", "starting: " + activeVideoDivs);
 	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
 		let newVideoDiv = activeVideoDivs[activeVideoDiv].getElementsByTagName('video')[0];
 		newVideoDiv.play();
 	}
 	//textdiv.classList.add('div-top-fade-in');
 	//textdiv.classList.remove('div-top-fade-out');
+	console.log("enableNewPage", "fading text out: " + textdiv.innerHTML);
 	textdiv.classList.remove('literature','journalism','socialmedia');
 	textdiv.classList.add(datum['Type']);
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
+	console.log("enableNewPage", "fading new text in: " + textdiv.innerHTML);
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
 	//tagdiv.classList.add('div-top-fade-in');
 	//tagdiv.classList.remove('div-top-fade-out');
+	console.log("enableNewPage", "fading tag out: " + tagdiv.innerHTML);
 	tagdiv.classList.remove('literature-tag','journalism-tag','socialmedia-tag');
 	tagdiv.classList.add(datum['Type'] + '-tag');
 	tagdiv.innerHTML = '#' + datum['Verb'] ;
+	console.log("enableNewPage", "fading new tag in: " + tagdiv.innerHTML);
 	tagdiv.classList.toggle('m-fadeOut');
 	tagdiv.classList.toggle('m-fadeIn');
 		
