@@ -291,7 +291,7 @@ function populateVideoDivs(videoList, layout) {
 function enqueueVideo() {
 	//alert("ready to play " + queuedVideos[0]);
 	queuedVideos.push(true);
-	console.log("enqueueVideo", queuedVideos.length + " of " + videosToQueue + " queued")
+	// console.log("enqueueVideo", queuedVideos.length + " of " + videosToQueue + " queued")
 	if (queuedVideos.length == videosToQueue) {
 		enableNewPage();
 	}
@@ -308,51 +308,47 @@ function fadeText() {
 }
 
 function enableNewPage() {
-	console.log("enableNewPage", )
+	// console.log("enableNewPage", )
 	let textdiv = document.getElementById('quote-text');
 	let tagdiv = document.getElementById('verb-text');
-	console.log("enableNewPage", tagdiv + ": " + textdiv);
+	//console.log("enableNewPage", tagdiv + ": " + textdiv);
 	//textdiv.classList.remove('div-top-fade-in');
 	//textdiv.classList.add('div-top-fade-out');
 	//tagdiv.classList.remove('div-top-fade-in');
 	//tagdiv.classList.add('div-top-fade-out');
 	let activeVideoDivs = document.getElementsByClassName("active-video");
-	console.log("enableNewPage", "deactivating: " + activeVideoDivs);
+	// console.log("enableNewPage", "deactivating: " + activeVideoDivs);
 	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
 		var activeVideo = activeVideoDivs[activeVideoDiv];
 		activeVideo.parentNode.removeChild(activeVideo);
 	}
 	let delayedVideoDivs = document.getElementsByClassName("delayed-video");
-	console.log("enableNewPage", "activating a: " + delayedVideoDivs);
+	// console.log("enableNewPage", "activating a: " + delayedVideoDivs);
 	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
 		delayedVideoDivs[delayedVideoDiv].classList.add("active-video");
 	}
-	console.log("enableNewPage", "activating b: " + delayedVideoDivs);
+	// console.log("enableNewPage", "activating b: " + delayedVideoDivs);
 	for (var delayedVideoDiv = 0;  delayedVideoDiv < delayedVideoDivs.length; delayedVideoDiv++) {
 		delayedVideoDivs[delayedVideoDiv].classList.remove("delayed-video");
 	}
 	activeVideoDivs = document.getElementsByClassName("active-video");
-	console.log("enableNewPage", "starting: " + activeVideoDivs);
+	// console.log("enableNewPage", "starting: " + activeVideoDivs);
 	for (var activeVideoDiv = 0;  activeVideoDiv < activeVideoDivs.length; activeVideoDiv++) {
 		let newVideoDiv = activeVideoDivs[activeVideoDiv].getElementsByTagName('video')[0];
 		newVideoDiv.play();
 	}
-	//textdiv.classList.add('div-top-fade-in');
-	//textdiv.classList.remove('div-top-fade-out');
-	console.log("enableNewPage", "fading text out: " + textdiv.innerHTML);
+	// console.log("enableNewPage", "fading text out: " + textdiv.innerHTML);
 	textdiv.classList.remove('literature','journalism','socialmedia');
 	textdiv.classList.add(datum['Type']);
 	textdiv.innerHTML = populateTextDiv(datum['Quote'] );
-	console.log("enableNewPage", "fading new text in: " + textdiv.innerHTML);
+	// console.log("enableNewPage", "fading new text in: " + textdiv.innerHTML);
 	textdiv.classList.toggle('m-fadeOut');
 	textdiv.classList.toggle('m-fadeIn');
-	//tagdiv.classList.add('div-top-fade-in');
-	//tagdiv.classList.remove('div-top-fade-out');
-	console.log("enableNewPage", "fading tag out: " + tagdiv.innerHTML);
+	// console.log("enableNewPage", "fading tag out: " + tagdiv.innerHTML);
 	tagdiv.classList.remove('literature-tag','journalism-tag','socialmedia-tag');
 	tagdiv.classList.add(datum['Type'] + '-tag');
 	tagdiv.innerHTML = '#' + datum['Verb'] ;
-	console.log("enableNewPage", "fading new tag in: " + tagdiv.innerHTML);
+	// console.log("enableNewPage", "fading new tag in: " + tagdiv.innerHTML);
 	tagdiv.classList.toggle('m-fadeOut');
 	tagdiv.classList.toggle('m-fadeIn');
 		
